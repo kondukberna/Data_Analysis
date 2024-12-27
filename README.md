@@ -2,7 +2,7 @@
 
 AdventureWorks is an educational sample database developed by Microsoft for SQL Server that models the business processes of a fictional manufacturing and sales company.
 It includes broad data categories such as human resources, person, production, sales and purchasing information.
-I converted it to Postgresql format with a [conversion tool](https://github.com/lorint/AdventureWorks-for-Postgres) on github.
+I converted it to PostgreSQL format with a [conversion tool](https://github.com/lorint/AdventureWorks-for-Postgres) on github.
 
 # Dashboard
 
